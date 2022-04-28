@@ -3,6 +3,9 @@ Cs305 Mod5 Assignment: Collaboration with Version Control
 
 **Assignment Details**
 
+**Collab Info**
+  * [My Info](https://github.com/quasont1337/CS305_MOD5) 
+
 **PART 2: Setting up project repo**
   - [ ] Create rendered README file
   - [ ] Add classmate as collaborator
