@@ -4,7 +4,7 @@ Cs305 Mod5 Assignment: Collaboration with Version Control
 **Assignment Details**
 
 **PART 2: Setting up project repo**
-  - Create rendered README file
+  - [] Create rendered README file
   - Add classmate as collaborator
   - Collaborator push changes to main branch to add changes to README AND CONTRIBUTING file
   - Classmate to fork repository and proposed pull request 
