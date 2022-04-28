@@ -17,5 +17,5 @@ Cs305 Mod5 Assignment: Collaboration with Version Control
      * Username:
      * URL: 
 
-**Add your favorite cat meme**
+**Add your favorite meme video**
 
