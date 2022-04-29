@@ -6,8 +6,8 @@ Cs305 Mod5 Assignment: Collaboration with Version Control
 **Collab Info**
   * [My Info](https://github.com/quasont1337/CS305_MOD5) 
   * Partner Info
-     * Name: 
-     * Username:
+     * Name: Levi Mault
+     * Username: Dauthdaert13
      * URL: 
 
 **Non-Collab Info**
